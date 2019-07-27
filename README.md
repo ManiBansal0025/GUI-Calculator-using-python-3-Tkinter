@@ -1,7 +1,7 @@
 # GUI-Calculator-using-python-3-Tkinter
-Simple GUI calculator using Tkinter
+
 Hey python developers
-In this repositories i will show you how to develop a simple calculator using tkinter module in python
+In this repositorie i will show you how to develop a simple calculator using tkinter module in python
 
 Python offers a lot of options to develop  GUI applications, but Tkinter is the most usable module for developing GUI(Graphical User
 Interface). Since Tkinter is cross-platform so it works on both windows and Linux. So here i am using Tkinter module to create a
